@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "DeviantSpy - Native Ad Tool"
+AuthUserFile /etc/htpasswd
+Require valid-user spyman tyler
